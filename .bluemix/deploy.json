@@ -21,7 +21,9 @@
       "type": "string",
       "validator": {
         "v-type": "cf-region",
-        "params": ["api-key"]
+        "params": [
+          "api-key"
+        ]
       }
     },
     "dev-organization": {
@@ -31,7 +33,9 @@
       "type": "string",
       "validator": {
         "v-type": "cf-org",
-        "params": ["dev-region"]
+        "params": [
+          "dev-region"
+        ]
       }
     },
     "dev-space": {
@@ -41,7 +45,9 @@
       "type": "string",
       "validator": {
         "v-type": "cf-space",
-        "params": ["dev-organization"]
+        "params": [
+          "dev-organization"
+        ]
       }
     },
     "api-key": {

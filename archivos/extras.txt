@@ -10,9 +10,10 @@ URL
 https://api.us-south.assistant.watson.cloud.ibm.com/instances/cb0ceb47-9170-40c5-9ef3-8242e2765d46
 
 
-skill ID:
 
-Skill ID:90313842-cf36-4572-a340-a62eca852677
+
+Skill ID:
+54bd3221-95ac-405c-b54a-ebf3cde542cc
 
 Asistant ID
 ad086bfe-3786-4b83-addf-d41863d67fbe

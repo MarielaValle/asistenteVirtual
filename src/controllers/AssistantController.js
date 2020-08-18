@@ -11,6 +11,7 @@ const initialCredentials = {
   skill: process.env.WA_SKILL_ID
 };
 
+
 const sendMessage = async (msg, sessionId, model, credentials) => {
   let response;
   try {
